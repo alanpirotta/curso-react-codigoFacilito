@@ -20,3 +20,7 @@
     width: max-content;
     padding: 5px 40px;
 }
+
+label{
+    padding: 5px
+}
